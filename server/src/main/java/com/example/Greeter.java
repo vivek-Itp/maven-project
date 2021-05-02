@@ -3,7 +3,7 @@ package com.example;
 /**
  * This is a class yes it is ? is it working?I think its working.
  */
-public class Greetr {
+public clas Greeter {
 
   /**
    * This is a constructor.
