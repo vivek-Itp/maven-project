@@ -8,7 +8,7 @@ public clas Greeter {
   /**
    * This is a constructor.
    */
-  public Greeter() {
+  publi Greeter() {
 
   }
 
