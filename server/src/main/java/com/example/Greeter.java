@@ -4,7 +4,7 @@ package com.example;
  * This is a class yes it is ? is it working?I think its working.yes it should be working as it is...
  # checking nexus repo,NO CODE ERROR okay
  */
-public class Greeter {
+public class Greetr {
 
   /**
    * This is a constructor.YES ITS
